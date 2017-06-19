@@ -1,6 +1,6 @@
-# Ceasar Cipher
+# Reverse a string
 
-[![Build Status](https://travis-ci.org/atrestis/Caesar.svg?branch=master)](https://travis-ci.org/atrestis/Caesar)
+[![Build Status](https://travis-ci.org/atrestis/Caesar.svg?branch=master)](https://travis-ci.org/atrestis/Reverse)
 [![Discord Contribution](https://img.shields.io/badge/Discord-Contribution-blue.svg?branch=master)](https://discord.gg/36ZDpPY)
 
 ## Inspiration
@@ -9,11 +9,9 @@ Inspired by [this repository](https://github.com/karan/Projects)
 
 ## How to use this script?
 
-- Upon running the python script a menu apprears.
-- User decides upon encoding or decoding.
-- They enter the encoding/decoding key [integer from 1-25].
-- The respective result is printed in terminal/cmd.
-- Multiples of both 3 & 5 are represented by FizzBuzz".
+- A string is provided to the script via command line.
+- Program reverses it ex: "valve" becomes "evlav".
+- Lastly, it prints out the result.
 
 ## Tools Used 
 
