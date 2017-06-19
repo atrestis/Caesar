@@ -1,6 +1,6 @@
 # Reverse a string
 
-[![Build Status](https://travis-ci.org/atrestis/Reserve.svg?branch=master)](https://travis-ci.org/atrestis/Reserve)
+[![Build Status](https://travis-ci.org/atrestis/Reverse.svg?branch=master)](https://travis-ci.org/atrestis/Reverse)
 [![Discord Contribution](https://img.shields.io/badge/Discord-Contribution-blue.svg?branch=master)](https://discord.gg/36ZDpPY)
 
 ## Inspiration
